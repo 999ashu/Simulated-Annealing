@@ -9,4 +9,4 @@
 
 ### [Additional Task 1](https://github.com/999ashu/Simulated-Annealing/blob/main/notebooks/CMA_ES.ipynb)
 
-### [Additional Task 2](https://github.com/999ashu/Simulated-Annealing/blob/main/notebooks/)
+### [Additional Task 2](https://github.com/999ashu/Simulated-Annealing/blob/main/notebooks/GA_OneMax.ipynb)
